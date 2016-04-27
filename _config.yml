@@ -1,0 +1,28 @@
+name: Amanda Rudnicki
+favicon: null
+layout_spectrum: 0.14853190490975976
+typography_spectrum: 0.09148541162721813
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.361092014471069
+  lightness: 0.36940996535122395
+  saturation: 0.3817780034150928
+  rhythmicContrast: 0.5031226249411702
+purpose: []
